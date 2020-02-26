@@ -7,3 +7,7 @@ The first objective of this collaboration is to create synthetic datasets for a 
 
 A description of the models used in the fishery simulator is provided [here][https://www.overleaf.com/7424895544mdzrytychpvy].
 
+## Usage
+
+The fishery simulator comes as an R package. You can install it using the following command in R
+install_github("mkienzle/FisherySimulator")
