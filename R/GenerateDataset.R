@@ -13,9 +13,9 @@ GenerateData3(max.age = max.age,
               nb.of.cohort = nb.of.cohort,
 	      catchability.range = catchability.range,
 	      effort.range = effort.range,
-	      nat.mort.range = nat.mort.range
-	      recruitment.range = recruitment.range
-	      log.para.range = log.para.range
+	      nat.mort.range = nat.mort.range,
+	      recruitment.range = recruitment.range,
+	      log.para.range = log.para.range,
 	      log.parb.range = log.parb.range)
 
 }
