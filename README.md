@@ -11,3 +11,5 @@ A description of the models used in the fishery simulator is provided [here][htt
 
 The fishery simulator comes as an R package. You can install it using the following command in R
 install_github("mkienzle/FisherySimulator")
+
+GenerateData()
